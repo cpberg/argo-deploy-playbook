@@ -1,0 +1,5 @@
+---
+- name: argocd
+  src: git@gitlab.com:christopherpberg/argocd.git
+  version: master
+  scm: git
